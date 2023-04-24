@@ -1,4 +1,4 @@
-# Book Store API GoLang
+# Book API GoLang
 
 Challange 8 GoLang
 
